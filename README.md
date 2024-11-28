@@ -3,11 +3,13 @@
 ##  the URL to the repository on GitHub： 
 https://github.com/stl52666/phbs-qbs-2024.git
 
-## Get the environment
-1. Through the URL to connect my repository
-2. Open the Git bash
-3. Download the packages:
+## Setting up the environment
+1. python version : Python 3.9.2
+2. Through the URL to connect my repository
+3. Open the Git bash
+4. Download the packages:
    pip install pandas pandas_datareader
+
 ## How to run the code
 
 ```
