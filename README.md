@@ -5,7 +5,7 @@ https://github.com/stl52666/phbs-qbs-2024.git
 
 ## Setting up the environment
 1. python version : Python 3.9.2
-2. Through the SSH to connect my repository
+2. Through the SSH to connect my repository with VScode
 3. Open the Git bash
 4. Download the packages:
    pip install pandas pandas_datareader
